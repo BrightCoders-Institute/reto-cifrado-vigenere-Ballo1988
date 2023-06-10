@@ -1,5 +1,5 @@
 require 'rspec'
-require_relative '/home/braulio/reto-cifrado-vigenere-Ballo1988/cipher.rb'
+require_relative 'cipher'
 
 describe VigenereCipher do
   describe '#inicializar' do
