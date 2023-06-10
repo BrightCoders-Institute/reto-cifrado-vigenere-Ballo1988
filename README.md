@@ -8,3 +8,10 @@ Hola, este código es un cifrado  Vigenere, la forma en la que funciona es que a
 caracter que se está iterando en ese momento y desencripta de la misma forma, pero, al revés
 
 Se utilizó rubocop para revisar el código
+y rspec para las pruebas
+
+-cipher.rb
+para correrlo, utilizar el comando $ ruby cipher.rb y hacer los inputs solicitados, ingresar la misma clave que se utilizó o no devolverá el valor
+adecuado.
+-ciphertest_spec.rb
+Usar el comando $ ruby ciphertest_spec.rb, asegurarse de instalar rspec, usando bundle install (gema en Gemfile), presionar enter para cada input, no es necesario ingresar nada
