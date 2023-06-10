@@ -21,6 +21,7 @@ class VigenereCipher
       x += 1
       y += 1
     end
+    p "key : #{key}"
     encriptar(key)
     prueba(key)
   end

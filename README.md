@@ -4,15 +4,7 @@
 # Cifrado de Vigenere
 
 > [Ver instrucciones antes de iniciar](./instructions.md)
+Hola, este código es un cifrado  Vigenere, la forma en la que funciona es que al usar mod podemos obtener el índice del 
+caracter que se está iterando en ese momento y desencripta de la misma forma, pero, al revés
 
-This README would normally document whatever steps are necessary to get the application up and running.
-
-Things you may want to cover:
-
-- Title or Project Name
-- Table of contents
-- Description. A brief description of what the project is about
-- How to Install and Run the Project.
-- How to Use the Project.
-- Credits
-- Badges
+Se utilizó rubocop para revisar el código
